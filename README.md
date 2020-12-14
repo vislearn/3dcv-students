@@ -57,7 +57,7 @@ Now, just open one of the task notebooks and start editing.
     │
     ├── requirements.txt                        <- The requirements file to setup the environment
     │
-    ├── tasks.pdf                               <- Detailed information about your tasks
+    ├── task.pdf                               <- Detailed information about your tasks
     │
     ├── vll                                     <- Boilerplate source code provided by us
     │   │
