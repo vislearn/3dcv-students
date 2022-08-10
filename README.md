@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* Python 3.7
+* Python 3
 
 ## Installation
 
@@ -11,7 +11,7 @@ For the installation I recommend a python venv.
 ```sh
 git clone git@github.com:titus-leistner/3dcv.git
 cd 3dcv/
-python3.7 -m venv .
+python3 -m venv .
 source bin/activate
 pip install -r requirements.txt
 ```
