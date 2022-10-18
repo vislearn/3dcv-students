@@ -35,7 +35,7 @@ pip install -r .\requirements.txt
 
 In order to edit the notebooks run
 ```sh
-jupyter-notebook
+jupyter-lab
 ```
 to start the local webserver.
 If the notebook home page does not show up immediately, open `http://localhost:8888` in your browser.
