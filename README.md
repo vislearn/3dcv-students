@@ -9,7 +9,7 @@
 ### Unix
 For the installation I recommend a python venv.
 ```sh
-git clone git@github.com:titus-leistner/3dcv.git
+git clone git@github.com:vislearn/3dcv-students.git
 cd 3dcv/
 python3 -m venv .
 source bin/activate
@@ -22,7 +22,7 @@ Make sure that the installer adds Python to your PATH.
 
 In PowerShell run
 ```bat
-git clone git@github.com:titus-leistner/3dcv.git
+git clone git@github.com:vislearn/3dcv-students.git
 ```
 (if you don't use git, just download and extract the zip file)
 ```bat
