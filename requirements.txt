@@ -81,6 +81,7 @@ tifffile==2022.8.12
 tinycss2==1.1.1
 tomli==2.0.1
 torch==1.12.1
+torchsummary==1.5.1
 torchvision==0.13.1
 tornado==6.2
 traitlets==5.4.0
