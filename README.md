@@ -1,12 +1,27 @@
 # Exercises for 3D Computer Vision
 
 ## Requirements
-
-* Python 3
+* Python 3.10 (Maybe works with Python 3.8)
+* It is recommended to set up Miniconda or Anaconda
 
 ## Installation
 
-### Unix
+### Anaconda / Miniconda (Unix/Windows/Mac)
+After installing Anacodna / Miniconda (follow guide: https://docs.anaconda.com/anaconda/install/)
+create an Virtual Environment
+```sh
+conda create -n 3dcv-students python=3.10
+```
+wait until it installs and activate the environment with:
+```sh
+conda activate 3dcv-students
+```
+Than install all requirements as usual
+```sh
+pip install -r requirements.txt
+```
+
+### Unix (Python only)
 For the installation I recommend a python venv.
 ```sh
 git clone git@github.com:vislearn/3dcv-students.git
@@ -16,7 +31,7 @@ source bin/activate
 pip install -r requirements.txt
 ```
 
-### Windows
+### Windows (Python only)
 Download Python [here](https://www.python.org/downloads/windows/).
 Make sure that the installer adds Python to your PATH.
 
