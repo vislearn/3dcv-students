@@ -1,6 +1,8 @@
 # Datasets
 ./data/
 !./data/.gitkeep
+data/mnist/
+data/mnist.tar.gz
 
 # Output
 out*
